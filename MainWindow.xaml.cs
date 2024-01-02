@@ -9,7 +9,7 @@ namespace Weather // Определение пространства имен
 {
     public partial class MainWindow : Window // Объявление класса MainWindow наследующего от класса Window
     {
-        private readonly string apiKey = "4cd3fafa54ff0cd9c3260b9f65f6b140";// Ключ API 
+        private readonly string apiKey = "Вставьте свой API ключ";// Ключ API 
 
         public MainWindow()// Конструктор класса
         {
